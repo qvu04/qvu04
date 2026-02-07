@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ngo Quang Vu</h1>
-<p align="center">💻 A passionate fullstack developer | 🎓 Currently studying</p>
+<p align="center">💻 A passionate frontend developer | 🎓 Currently studying</p>
 
 ---
 
