@@ -57,13 +57,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qvu04&theme=radical&no-frame=false&no-bg=true" alt="github trophies" />
-</p>
-
----
-
 ## 🔝 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=qvu04&limit=5&theme=dark&combine_all_yearly_contributions=true" />
