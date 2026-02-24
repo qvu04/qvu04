@@ -74,7 +74,7 @@
 <h1 align="center">🏨 B5ooking – Premium Hotel Booking Platform</h1>
 
 <p align="center">
-<img src="./path-to-your-admin-screenshot.png" alt="B5ooking Interface Screenshot" />
+<img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/user_home.png?raw=true" alt="B5ooking Interface Screenshot" />
 </p>
 
 ## ✨ Overview
