@@ -27,7 +27,6 @@
 </p>
 <p align="center">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
@@ -37,7 +36,6 @@
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 <p align="center">
   <!-- Tools -->
@@ -73,68 +71,84 @@
 
 ---
 
-<h1 align="center">🏠 Airbnb Clone – Room Booking App with Admin Dashboard</h1>
+<h1 align="center">🏨 B5ooking – Premium Hotel Booking Platform</h1>
 
 <p align="center">
-  <img src="./path-to-your-admin-screenshot.png" alt="Admin Dashboard Screenshot" />
+<img src="./path-to-your-admin-screenshot.png" alt="B5ooking Interface Screenshot" />
 </p>
 
 ## ✨ Overview
 
 <p>
-Airbnb Clone is a full-stack room booking platform with a clean and user-friendly interface, mimicking core features of Airbnb. It includes user authentication, room browsing, booking functionality, and user feedback. Additionally, it features a powerful Admin Dashboard allowing admins to manage all aspects of the system.
+<b>B5ooking</b> is a sophisticated full-stack hotel booking platform designed to provide a seamless travel planning experience. From discovering top-rated destinations to managing complex reservations, the system bridges the gap between travelers and accommodation providers. It features a modern, high-performance UI for users and a data-driven Administration Suite for business management.
 </p>
 
 ---
 
 ## 🚀 Key Features
 
-### 👤 <u>User Side:</u>
+### 👤 <u>User Experience:</u>
 
-- ✅ Register, login, and logout functionality  
-- 🏡 Browse available rooms with images and location details  
-- 💬 View other users' comments and ratings  
-- 📅 Book and cancel bookings  
-- 👤 Manage personal profile and upload avatar  
+- 🔑 Advanced Auth: Secure Register/Login with Google OAuth 2.0 integration.
 
-### 🛠 <u>Admin Side:</u>
+- 🔍 Smart Discovery: Search by travel destinations, hotel types, and available rooms.
 
-- 🔐 Admin-only access via `ADMIN` role  
-- ✏️ Full CRUD operations for:
-  - Users  
-  - Rooms  
-  - Locations  
-  - Bookings  
-- 🔎 Real-time search, pagination, and image previews  
-- 🎨 Built with Ant Design for a clean admin experience  
+- 🛒 Booking Engine: Real-time room booking with Voucher/Discount code application.
+
+- 💬 Social Engagement: Star-rating, detailed reviews, and personal Wishlist/Favorite management.
+
+- 🌍 Localization & Personalization: - 🌓 Dynamic Dark/Light mode for eye comfort.
+
+- 🇻🇳🇬🇧 Multi-language support (English - Vietnamese).
+
+- 👤 Profile Management: Manage booking history and personal information.
+
+### 🛠 <u>Power Admin Dashboard:</u>
+
+- 📊 Business Intelligence: Track revenue growth with interactive data visualizations (Charts).
+
+- 📄 Reporting: Automated PDF report exportation for business summaries.
+
+- 📦 Resource Management (CRUD): - User & Partner management.
+
+- Hotel & Room inventory (including sub-images gallery).
+
+- Voucher System: Create and manage discount campaigns.
+
+- Booking & Location tracking.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, TypeScript, Redux Toolkit, TailwindCSS, Ant Design, React Router  
-- **Backend:** NestJS (includes Swagger-based auto-generated API documentation)  
-- **Deployment:** Vercel  
+- Frontend: React, Next.js, TypeScript, Redux Toolkit, TailwindCSS, Ant Design, Shadcn.
+
+- Backend: Node.js / ExpressJS.
+
+- Libraries: Chart.js/Recharts (Data viz), React-i18next (Multi-language), React Hook Form.
+
+- Deployment: Vercel / Render.
 
 ---
 
 ## 🌐 Live Demo
 
-- 🔗 **Live URL:** (https://airbnb-vert-alpha.vercel.app/)  
-- 🧪 **Admin Test Account:** `vu00@gmail.com` / `123456`  
+- 🔗 🔗 Live URL: b5ooking-frontend.vercel.app
+
+- 🧪 Admin Test Account: tha222nhlamm24322224443@gmail.com / 123456
 
 ---
 
-## 📚 API Documentation
+## 📚 Technical Highlights
 
-> The backend is powered by NestJS and includes Swagger-based API documentation.
+Responsive Design: Optimized for all screen sizes from mobile to desktop.
 
-📎 [View API Docs](https://airbnbnew.cybersoft.edu.vn/swagger/index.html)
+State Management: Centralized data flow using Redux Toolkit for complex booking states.
+
+Security: Implemented Role-based Access Control (RBAC) to protect sensitive admin data.
 
 ---
 
 <p align="center">
   <i>🚧 Still actively maintained & improved</i>
 </p>
-
-aaaaa
