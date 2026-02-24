@@ -74,11 +74,14 @@
 <h1 align="center">🏨 B5ooking – Premium Hotel Booking Platform</h1>
 
 <p align="center">
-<img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/user_home.png?raw=true" alt="B5ooking Interface Screenshot" />
+<img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/user_home.png?raw=true" alt="B5ooking Interface User Screenshot" />
+  
 </p>
-
+<p align="center">
+<img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/admin_dashboard.png?raw=true" alt="B5ooking Interface Admin Screenshot" />
+  https://github.com/qvu04/B5ooking/blob/master/fe/public/images/admin_dashboard.png
+</p>
 ## ✨ Overview
-
 <p>
 <b>B5ooking</b> is a sophisticated full-stack hotel booking platform designed to provide a seamless travel planning experience. From discovering top-rated destinations to managing complex reservations, the system bridges the gap between travelers and accommodation providers. It features a modern, high-performance UI for users and a data-driven Administration Suite for business management.
 </p>
