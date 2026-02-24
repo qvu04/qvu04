@@ -75,11 +75,9 @@
 
 <p align="center">
 <img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/user_home.png?raw=true" alt="B5ooking Interface User Screenshot" />
-  
 </p>
 <p align="center">
 <img src="https://github.com/qvu04/B5ooking/blob/master/fe/public/images/admin_dashboard.png?raw=true" alt="B5ooking Interface Admin Screenshot" />
-  https://github.com/qvu04/B5ooking/blob/master/fe/public/images/admin_dashboard.png
 </p>
 ## ✨ Overview
 <p>
